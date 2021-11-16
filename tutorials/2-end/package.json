@@ -12,7 +12,7 @@
     "rm": "now rm tutorial-2-end --safe --yes"
   },
   "dependencies": {
-    "aws-sdk": "^2.213.1",
+    "aws-sdk": "^2.814.0",
     "babel-cli": "^6.26.0",
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
